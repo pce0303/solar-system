@@ -14,4 +14,4 @@ Sunrin Internet High School IoT Contest
 <li>React-three-drei</li>
 </ul>
 
-<h3>환경 세팅 X<br>단순 코드 백업용</h3>
+<h3>환경 세팅, 실행 X<br>단순 코드 백업용</h3>
